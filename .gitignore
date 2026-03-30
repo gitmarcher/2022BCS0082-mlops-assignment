@@ -3,6 +3,5 @@ __pycache__/
 .env
 venv/
 myenv/
-data/
 models/
 outputs/
