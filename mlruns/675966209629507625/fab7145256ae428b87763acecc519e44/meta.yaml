@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sameer/Desktop/2022BCS0082-mlops-assignment/mlruns/675966209629507625/fab7145256ae428b87763acecc519e44/artifacts
+end_time: 1774891386927
+entry_point_name: ''
+experiment_id: '675966209629507625'
+lifecycle_stage: active
+run_id: fab7145256ae428b87763acecc519e44
+run_name: hilarious-elk-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774891382141
+status: 3
+tags: []
+user_id: Sameer
